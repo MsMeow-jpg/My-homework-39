@@ -80,13 +80,15 @@ homework-39/
 git clone https://github.com/MsMeow-jpg/My-homework-39.git
 ```
 2. Go to the project folder:
-```cd My-homework-39/my-react-app
+```bash
+cd My-homework-39/my-react-app
 ```
 3. Install dependencies:
-```npm install
+```bash
+npm install
 ```
 4. Launch the project:
-```
+```bash
 npm run dev
 ```
 ---
